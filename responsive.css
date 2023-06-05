@@ -3,7 +3,7 @@
         font-size: 28px;
     }
 }
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 1050px) {
     .div{
         display: none;
         height: 0;
